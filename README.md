@@ -24,7 +24,7 @@ VidMix is a web application that allows users to upload two input videos and mix
 
 2. Run the React application
     ```bash
-    npm start
+    npm run dev
     ```
 
 ### Backend
@@ -45,15 +45,6 @@ VidMix is a web application that allows users to upload two input videos and mix
     python app.py
     ```
 
-## Deployment
-
-### Frontend
-
-1. Deploy the frontend application to Vercel. Follow the [Vercel Deployment Guide](https://vercel.com/docs/concepts/projects/overview).
-
-### Backend
-
-1. Deploy the backend application to Heroku. Follow the [Heroku Deployment Guide](https://devcenter.heroku.com/articles/getting-started-with-python).
 
 ## Usage
 
@@ -70,14 +61,3 @@ VidMix is a web application that allows users to upload two input videos and mix
 
 - The user interface is intuitive and responsive.
 - The video mixing process is efficient and error-free.
-
-## Evaluation Criteria
-
-1. **Functionality**: The application correctly handles video uploads and mixing.
-2. **Code Quality**: The code is well-structured and documented.
-3. **User Experience**: The user interface is intuitive and responsive.
-4. **Deployment**: The application is successfully deployed on Vercel and Heroku.
-
-## License
-
-MIT License
