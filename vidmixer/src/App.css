@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  width: 100%;
+}
+
+.dropzone {
+  border: 2px dashed #cccccc;
+  border-radius: 5px;
+  padding: 20px;
+  cursor: pointer;
+  margin: 20px;
+}
